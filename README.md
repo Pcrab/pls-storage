@@ -52,3 +52,8 @@ lstorage.setItem("testKey2", "testStringValue", {
 lstorage.setItem("testKey2", "changedValue");
 lstorage.getItem("testKey2") // "testStringValue"
 ```
+
+## TODOs
+
+- [ ] Add custom storage support
+- [ ] Proxy on origin local/session storage
